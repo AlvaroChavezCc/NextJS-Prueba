@@ -18,6 +18,7 @@ const enabledTests = [
   'test/development/basic/styled-components-disabled.test.ts',
   'test/development/basic/tailwind-jit.test.ts',
   'test/development/basic/theme-ui.test.ts',
+  'test/development/client-dev-overlay/index.test.ts',
   'test/development/dotenv-default-expansion/index.test.ts',
   'test/development/jsconfig-path-reloading/index.test.ts',
   'test/development/middleware-warnings/index.test.ts',
