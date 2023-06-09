@@ -38,6 +38,7 @@
       "outputs": ["dist/**"]
     },
     "typescript": {},
+    "//#typescript": {},
     "rust-check": {},
     "test-cargo-unit": {},
     "//#get-test-timings": {
